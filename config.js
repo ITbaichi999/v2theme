@@ -34,7 +34,7 @@ window.config={
                 title: 'Android客户端',
                 icon: 'ri:android-fill',
                 downloadLink: 'https://vip.yeye8.top/App/ihorus.apk/', // Android客户端下载地址
-                knowledgeLink: 'https://lovechina.mingri.icu/dashboard/knowledge/13', // 使用教程地址
+                knowledgeLink: 'https://v2theme.pages.dev/#/dashboard/knowledge/13', // 使用教程地址
             },
             {
                 key: 'android',
