@@ -19,21 +19,21 @@ window.config={
                 key: 'windows',
                 title: 'Windows客户端',
                 icon: 'ri:windows-fill',
-                downloadLink: 'https://yeye8.top/App/mihomo-party-windows-1.5.6-x64-portable.7z', // Windows客户端下载地址
+                downloadLink: 'https://yeye8.top/App/mihomo-party-windows-1.5.6-x64-portable.7z/', // Windows客户端下载地址
                 knowledgeLink: 'https://lovechina.mingri.icu/dashboard/knowledge/11', // 使用教程地址
             },
             {
                 key: 'mac',
                 title: 'Mac客户端',
                 icon: 'ri:finder-fill',
-                downloadLink: 'https://yeye8.top/App/mihomo-party-catalina-1.5.6-arm64.pkg', // Mac客户端下载地址
+                downloadLink: 'https://yeye8.top/App/mihomo-party-catalina-1.5.6-arm64.pkg/', // Mac客户端下载地址
                 knowledgeLink: 'https://lovechina.mingri.icu/dashboard/knowledge/12', // 使用教程地址
             },
             {
                 key: 'android',
                 title: 'Android客户端',
                 icon: 'ri:android-fill',
-                downloadLink: 'https://vip.yeye8.top/App/ihorus.apk', // Android客户端下载地址
+                downloadLink: 'https://vip.yeye8.top/App/ihorus.apk/', // Android客户端下载地址
                 knowledgeLink: 'https://lovechina.mingri.icu/dashboard/knowledge/13', // 使用教程地址
             },
             {
