@@ -1,5 +1,5 @@
 window.config={
-    logo: 'https://img2.imgtp.com/2024/03/11/YzU8iDJp.png', // 网站logo
+    logo: 'https://vip.yeye8.top/logohls.png', // 网站logo
     title:"AirBus", // 网站标题
     host:"https://lovechina.mingri.icu/", // 后端接口地址
     storeHome: {
@@ -7,9 +7,9 @@ window.config={
         description: '若您已购买订阅且当前未过期，再次购买相同套餐将在原过期时间上追加时长，购买其他套餐则对原有订阅进行折抵' // 套餐页描述
     },
     SignPage: {
-        title: '覆盖全球的高速网络，您的高速旅程从 AirBus 开始', // 登录页标题
+        title: '覆盖全球的高速网络，您的高速旅程从 荷鲁斯 开始', // 登录页标题
         desc1: 'High-speed network covering the whole world', // 登录页描述1
-        desc2: 'Your high-speed journey starts with AirBus', // 登录页描述2
+        desc2: 'Your high-speed journey starts with IHLS', // 登录页描述2
         inviteCodeEdit: false, // 是否允许用户修改邀请码
     },
     homeClient: {
@@ -19,29 +19,36 @@ window.config={
                 key: 'windows',
                 title: 'Windows客户端',
                 icon: 'ri:windows-fill',
-                downloadLink: 'https://www.microsoft.com/zh-cn', // Windows客户端下载地址
-                knowledgeLink: '/dashboard/knowledge/10', // 使用教程地址
+                downloadLink: 'https://yeye8.top/App/mihomo-party-windows-1.5.6-x64-portable.7z', // Windows客户端下载地址
+                knowledgeLink: '/dashboard/knowledge/11', // 使用教程地址
             },
             {
                 key: 'mac',
                 title: 'Mac客户端',
                 icon: 'ri:finder-fill',
-                downloadLink: 'https://www.apple.com/macos/sonoma/', // Mac客户端下载地址
-                knowledgeLink: '/dashboard/knowledge/8', // 使用教程地址
+                downloadLink: 'https://yeye8.top/App/mihomo-party-catalina-1.5.6-arm64.pkg', // Mac客户端下载地址
+                knowledgeLink: '/dashboard/knowledge/12', // 使用教程地址
             },
             {
                 key: 'android',
                 title: 'Android客户端',
                 icon: 'ri:android-fill',
-                downloadLink: 'https://www.google.com/', // Android客户端下载地址
-                knowledgeLink: '/dashboard/knowledge/11', // 使用教程地址
+                downloadLink: 'https://vip.yeye8.top/App/ihorus.apk', // Android客户端下载地址
+                knowledgeLink: '/dashboard/knowledge/13', // 使用教程地址
+            },
+            {
+                key: 'android',
+                title: 'Android客户端2',
+                icon: 'ri:android-fill',
+                downloadLink: 'https://yeye8.top/App/clash_meta.apk', // Android客户端下载地址
+                knowledgeLink: '/dashboard/knowledge/7', // 使用教程地址
             },
             {
                 key: 'ios',
                 title: 'iOS客户端',
                 icon: 'ri:apple-fill',
-                downloadLink: 'https://www.apple.com/ios/ios-17/', // iOS客户端下载地址
-                knowledgeLink: '/dashboard/knowledge/12', // 使用教程地址
+                downloadLink: 'https://idappstore.net/mg/182.html', // iOS客户端下载地址
+                knowledgeLink: '/dashboard/knowledge/', // 使用教程地址
             },
             {
                 key: 'knowledge',
