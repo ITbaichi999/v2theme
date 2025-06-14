@@ -1,7 +1,7 @@
 window.config={
-    logo: 'https://vip.yeye8.top/logohls.png', // 网站logo
+    logo: 'https://bing.mingri.icu/logohls.png', // 网站logo
     title:"荷鲁斯", // 网站标题
-    host:"https://hls.herefor.top/", // 后端接口地址
+    host:"https://bing.mingri.icu/", // 后端接口地址
     storeHome: {
         title: '选择最适合你的订阅计划', // 套餐页标题
         description: '若您已购买订阅且当前未过期，再次购买相同套餐将在原过期时间上追加时长，购买其他套餐则对原有订阅进行折抵' // 套餐页描述
@@ -27,35 +27,35 @@ window.config={
                 title: 'Mac客户端',
                 icon: 'ri:finder-fill',
                 downloadLink: 'https://yeye8.top/App/mihomo-party-catalina-1.5.6-arm64.pkg/', // Mac客户端下载地址
-                knowledgeLink: 'https://hls.herefor.top/dashboard/knowledge/12', // 使用教程地址
+                knowledgeLink: 'https://bing.herefor.top/dashboard/knowledge/12', // 使用教程地址
             },
             {
                 key: 'android',
                 title: 'Android客户端',
                 icon: 'ri:android-fill',
                 downloadLink: 'https://vip.yeye8.top/App/ihorus.apk/', // Android客户端下载地址
-                knowledgeLink: 'https://hls.herefor.top/#/dashboard/knowledge/13', // 使用教程地址
+                knowledgeLink: 'https://bing.herefor.top/#/dashboard/knowledge/13', // 使用教程地址
             },
             {
                 key: 'android',
                 title: 'Android客户端2',
                 icon: 'ri:android-fill',
                 downloadLink: 'https://yeye8.top/App/clash_meta.apk', // Android客户端下载地址
-                knowledgeLink: 'https://lovechina.mingri.icu/dashboard/knowledge/7', // 使用教程地址
+                knowledgeLink: 'https://bing.mingri.icu/dashboard/knowledge/7', // 使用教程地址
             },
             {
                 key: 'ios',
                 title: 'iOS客户端',
                 icon: 'ri:apple-fill',
                 downloadLink: 'https://idappstore.net/mg/182.html', // iOS客户端下载地址
-                knowledgeLink: 'https://hls.herefor.top/dashboard/knowledge/', // 使用教程地址
+                knowledgeLink: 'https://bing.herefor.top/dashboard/knowledge/', // 使用教程地址
             },
             {
                 key: 'knowledge',
                 title: '查看其它教程',
                 icon: 'ri:questionnaire-fill',
                 downloadLink: null,
-                knowledgeLink: 'https://hls.herefor.top/dashboard/knowledge', // 使用教程地址
+                knowledgeLink: 'https://bing.herefor.top/dashboard/knowledge', // 使用教程地址
             }
         ],
     },
