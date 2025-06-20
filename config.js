@@ -1,5 +1,5 @@
 window.config={
-    logo: 'https://bing.mingri.icu/logohls.png', // 网站logo
+    logo: 'https://1c97cec1.cloudflare-r2-oss-cgm.pages.dev/raw/hls/logo.png', // 网站logo
     title:"荷鲁斯", // 网站标题
     host:"https://bing.mingri.icu/", // 后端接口地址
     storeHome: {
